@@ -1,5 +1,5 @@
 # information
 
-hey this is my first project.
+Hey this is my first project.
 <br>
-author:-Bhushan Patil
+Author:-Bhushan Patil
